@@ -1,2 +1,2 @@
 # economic_lectures
-Economic history from 1929 till now in German
+Economic history from 1929 till now (German)
